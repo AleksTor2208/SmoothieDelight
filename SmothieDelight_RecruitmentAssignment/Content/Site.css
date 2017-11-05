@@ -23,7 +23,25 @@ textarea {
     max-width: 280px;
 }
 
+p {
+    font-size: 22px;
+    color: black;
+}
+
 .content {
-    margin-top: 2em;
-    margin-left: 1em;
+    margin: 4em;  
+}
+
+.overlap {
+    border-radius: 5px;
+    margin-top: 2px;
+    border: solid;
+    border-color: darkmagenta;
+    width: 36em;
+    padding: 10px 10px 0px 10px;
+}
+
+.navbar-inverse {
+    background-color: white;
+    border-color: #080808;
 }
