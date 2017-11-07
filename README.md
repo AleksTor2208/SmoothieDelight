@@ -6,7 +6,8 @@ Smoothie Delight 1.0 deliver minimum value product opened for extensions.
 
 ## Getting Started
 
-Clone repository on your computer. Use 
+Clone repository on your computer. 
+Press Start button in order to open application on localhost in debug mode.
 
 ### Prerequisites
 
