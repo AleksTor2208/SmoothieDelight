@@ -46,6 +46,14 @@ p {
     border-color: #080808;
 }
 
-#smoothie_delight_description {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+.smoothie_delight_description {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+    margin-top: 1em;
+    margin-left: 1em;
+}
+
+#smoothie_quote {
+    margin-top: 5em;
+    font-family: Calibri;
+    font-size: 16px;
 }
