@@ -20,6 +20,8 @@ namespace SmothieDelight_RecruitmentAssignment.Models
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
+        public DbSet<UserInfo> UsersInfo { get; set; }
+
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
         {
