@@ -45,3 +45,7 @@ p {
     background-color: white;
     border-color: #080808;
 }
+
+#smoothie_delight_description {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
